@@ -70,3 +70,5 @@ Kondisi awal sengaja ditempatkan di luar zona ideal: produksi 70 kW terhadap beb
 ## Teknologi
 
 Flutter (Dart) · Material 3 · tanpa package eksternal · state management `setState` pada ` StatefulWidget`.
+
+##nama anggota
