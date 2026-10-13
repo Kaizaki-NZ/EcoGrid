@@ -67,6 +67,13 @@ Kondisi awal sengaja ditempatkan di luar zona ideal: produksi 70 kW terhadap beb
 - **SDG 13** — indikator CO₂ dihindari mengaitkan pilihan pembangkit dengan pengurangan emisi.
 - **SDG 12** — biogas dari limbah ternak mencontohkan ekonomi sirkular.
 
+## Anggota
+
+| No | Nama Lengkap | NIM | Peran |
+| --- | --- | --- | --- |
+| 1 | KHALIL AMIN ADILLAH | 202431059 | Ketua |
+| 2 | Muhammad Dhaffa Farras | 202431106 | Anggota |
+
 ## Teknologi
 
-Flutter (Dart) · Material 3 · tanpa package eksternal · state management `setState` pada ` StatefulWidget`.
+Flutter (Dart) · Material 3 · tanpa package eksternal · state management `setState` pada `StatefulWidget`.
