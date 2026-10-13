@@ -65,6 +65,8 @@ Kondisi awal sengaja ditempatkan di luar zona ideal: produksi 70 kW terhadap beb
 
 - **SDG 7** — inti aplikasi: simulasi bauran energi terbarukan untuk desa (target 7.1 dan 7.2).
 - **SDG 13** — indikator CO₂ dihindari mengaitkan pilihan pembangkit dengan pengurangan emisi.
+
+## nama anggota
 - **SDG 12** — biogas dari limbah ternak mencontohkan ekonomi sirkular.
 
 ## Teknologi
